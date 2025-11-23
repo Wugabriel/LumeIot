@@ -20,6 +20,9 @@ Lume é um aplicativo mobile focado em promover a **saúde emocional** e o **bem
 - Envio de dados MQTT
 - Simulação de dados de batimentos cardiacos, temperatura e estresse
 
+![Print do ThingSpeak](https://raw.githubusercontent.com/Wugabriel/LumeIot/refs/heads/main/Prints/Captura%20de%20tela%202025-11-23%20161734.png)
+![Print do Wokwi](https://github.com/Wugabriel/LumeIot/blob/main/Prints/Captura%20de%20tela%202025-11-23%20161807.png?raw=true)
+
 ***
 
 ## Dashboard
