@@ -26,7 +26,8 @@ Lume é um aplicativo mobile focado em promover a **saúde emocional** e o **bem
 - Exibe dados de batimentos cardiacos e temperatura do usuário
 - Atualiza os gráficos constantemente com o MQTT(a cada 15 segundos)
 
-![Print do Dashboard](https://github.com/Wugabriel/LumeDevOps/blob/main/Untitled.png?raw=true)
+![Print do Dashboard](https://github.com/Wugabriel/LumeIot/blob/main/Prints/Captura%20de%20tela%202025-11-23%20130633.png?raw=true)
+![Print do Dashboard Mobile](https://github.com/Wugabriel/LumeIot/blob/main/Prints/Captura%20de%20tela%202025-11-23%20130727.png?raw=true)
 
 ***
 
