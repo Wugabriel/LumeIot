@@ -1,4 +1,4 @@
-# Lume - Global Solution: DevOps e Cloud Computing
+# Lume - Global Solution: Disruptive Architectures: Iot, Iob e Generative IA
 
 ## Visão Geral do Projeto
 
