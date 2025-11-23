@@ -32,7 +32,7 @@ Lume é um aplicativo mobile focado em promover a **saúde emocional** e o **bem
 ***
 
 ### Vídeo do Pitch
-[![Vídeo de demonstração](https://img.youtube.com/vi/JEIFXWpi3Uw/hqdefault.jpg)](https://youtu.be/JEIFXWpi3Uw)
+[![Vídeo do Pitch](https://img.youtube.com/vi/r5iFfErnyMo/hqdefault.jpg)](https://youtu.be/r5iFfErnyMo)
 
 ***
 
